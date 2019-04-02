@@ -1,2 +1,2 @@
 # bestrepoever
-hello i am just trailing on git an github
+hello i am just trailing on git an githu
